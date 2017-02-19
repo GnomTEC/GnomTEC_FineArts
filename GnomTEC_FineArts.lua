@@ -19,7 +19,7 @@
 -- limitations under the Licence.
 -- **********************************************************************
 -- load localization first.
-local L = LibStub("AceLocale-3.0"):GetLocale("GnomTEC_Fine_Arts")
+local L = LibStub("AceLocale-3.0"):GetLocale("GnomTEC_FineArts")
 
 -- ----------------------------------------------------------------------
 -- Addon Info Constants (local)
@@ -65,10 +65,10 @@ local addonDataObject =	{
 	label = "GnomTEC Fine Arts",
 	icon = [[Interface\Icons\INV_Misc_Book_09]],
 	OnClick = function(self, button)
-		GnomTEC_Fine_Arts.SwitchMainWindow()
+		GnomTEC_FineArts.SwitchMainWindow()
 	end,
 	OnTooltipShow = function(tooltip)
-		GnomTEC_Fine_Arts.ShowAddonTooltip(tooltip)
+		GnomTEC_FineArts.ShowAddonTooltip(tooltip)
 	end,
 }
 
