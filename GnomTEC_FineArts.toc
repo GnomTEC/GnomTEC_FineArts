@@ -1,4 +1,4 @@
-## Interface: 70200
+## Interface: 70300
 ## Title: GnomTEC_FineArts
 ## Notes: GnomTEC FineArts.
 ## Notes-deDE: GnomTEC FineArts.
@@ -12,7 +12,7 @@
 ## Notes-zhCN: GnomTEC FineArts.
 ## Notes-zhTW: GnomTEC FineArts.
 ## Author: Peter Jack
-## Version: 7.2.0.1
+## Version: 7.3.0.1
 ## Dependencies: GnomTEC
 ## SavedVariables: GnomTEC_FineArtsDB
 
