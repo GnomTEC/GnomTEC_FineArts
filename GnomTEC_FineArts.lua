@@ -159,18 +159,18 @@ local function GnomTECFineArts()
 		if (nil == show) then
 			if mainWindowWidgets.mainWindow.IsShown() then
 				mainWindowWidgets.mainWindow.Hide()
-				PlaySound("igSpellBookClose")
+				PlaySound(SOUNDKIT.IG_SPELLBOOK_CLOSE)
 			else
 				mainWindowWidgets.mainWindow.Show()
-				PlaySound("igSpellBookOpen")
+				PlaySound(SOUNDKIT.IG_SPELLBOOK_OPEN)
 			end
 		else
 			if show then
 				mainWindowWidgets.mainWindow.Show()
-				PlaySound("igSpellBookOpen")
+				PlaySound(SOUNDKIT.IG_SPELLBOOK_OPEN)
 			else
 				mainWindowWidgets.mainWindow.Hide()
-				PlaySound("igSpellBookClose")
+				PlaySound(SOUNDKIT.IG_SPELLBOOK_CLOSE)
 			end
 		end
 	end
