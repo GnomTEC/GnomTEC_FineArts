@@ -1,10 +1,10 @@
 -- **********************************************************************
 -- GnomTEC FineArts
--- Version: 8.2.0.1
+-- Version: 9.0.1.1
 -- Author: Peter Jack
 -- URL: http://www.gnomtec.de/
 -- **********************************************************************
--- Copyright © 2017-2019 by Peter Jack
+-- Copyright © 2017-2020 by Peter Jack
 --
 -- Licensed under the EUPL, Version 1.1 only (the "Licence");
 -- You may not use this work except in compliance with the Licence.
@@ -28,12 +28,12 @@ local L = LibStub("AceLocale-3.0"):GetLocale("GnomTEC_FineArts")
 local addonInfo = {
 	["Name"] = "GnomTEC FineArts",
 	["Description"] = "GnomTEC FineArts.",	
-	["Version"] = "8.2.0.1",
-	["Date"] = "2019-06-26",
+	["Version"] = "9.0.1.1",
+	["Date"] = "2020-10-19",
 	["Author"] = "Peter Jack",
 	["Email"] = "info@gnomtec.de",
 	["Website"] = "http://www.gnomtec.de/",
-	["Copyright"] = "© 2017-2019 by Peter Jack",
+	["Copyright"] = "© 2017-2020 by Peter Jack",
 	["License"] = "European Union Public Licence (EUPL v.1.1)",	
 	["FrameworkRevision"] = 13
 }
