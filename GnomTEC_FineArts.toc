@@ -1,4 +1,4 @@
-## Interface: 90002
+## Interface: 90005
 ## Title: GnomTEC_FineArts
 ## Notes: GnomTEC FineArts.
 ## Notes-deDE: GnomTEC FineArts.
@@ -12,7 +12,7 @@
 ## Notes-zhCN: GnomTEC FineArts.
 ## Notes-zhTW: GnomTEC FineArts.
 ## Author: Peter Jack
-## Version: 9.0.2.1
+## Version: 9.0.5.1
 ## Dependencies: GnomTEC
 ## SavedVariables: GnomTEC_FineArtsDB
 
