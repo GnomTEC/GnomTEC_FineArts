@@ -1,6 +1,6 @@
 -- **********************************************************************
 -- GnomTEC FineArts
--- Version: 9.0.5.1
+-- Version: 9.1.0.1
 -- Author: Peter Jack
 -- URL: http://www.gnomtec.de/
 -- **********************************************************************
@@ -28,8 +28,8 @@ local L = LibStub("AceLocale-3.0"):GetLocale("GnomTEC_FineArts")
 local addonInfo = {
 	["Name"] = "GnomTEC FineArts",
 	["Description"] = "GnomTEC FineArts.",	
-	["Version"] = "9.0.5.1",
-	["Date"] = "2021-03-21",
+	["Version"] = "9.1.0.1",
+	["Date"] = "2021-07-01",
 	["Author"] = "Peter Jack",
 	["Email"] = "info@gnomtec.de",
 	["Website"] = "http://www.gnomtec.de/",
